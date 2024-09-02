@@ -3,3 +3,4 @@ Resolusi Theo
 - Belajar UI/UX
 - Belajar Front End
 - Belajar Back End
+- Belajar DevOps (nanti)
