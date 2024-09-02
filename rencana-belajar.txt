@@ -1,9 +1,11 @@
 Belajar Front End
 - HTML
 - CSS
+  - Framework CSS
+    ^ Bootstrap 5
 - JS
   - Js Dasar
   - Js DOM
   - Framework Js
-    ^ Angular
     ^ React
+    ^ Vue
