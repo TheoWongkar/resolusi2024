@@ -5,3 +5,5 @@ Belajar Front End
   - Js Dasar
   - Js DOM
   - Framework Js
+    ^ Angular
+    ^ React
